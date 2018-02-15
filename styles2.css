@@ -1,0 +1,12 @@
+body { background: pink;
+       color: black;
+       font-size: 14pt; }
+       body { font-family: 'Roboto Condensed', sans-serif; }
+       h1 { font-size: 400%;
+     font-weight: bold;
+     color: darkcyan }
+     a { color: red;
+    text-decoration: none }
+a:hover { color: darkcyan }
+
+<img src=original-21845-1439180939-3.png.jpeg
